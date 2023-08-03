@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./lesson03-homework/index.js"
+    "dev": "nodemon ./Lesson03-homework/index.js"
   },
   "author": "",
   "license": "ISC",
